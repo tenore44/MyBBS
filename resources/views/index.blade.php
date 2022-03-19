@@ -15,7 +15,7 @@
                 </a>
             </li>
         @empty
-            <li>No posts yet!</li>
+            <li>まだ書き込みはありません！</li>
         @endforelse
     </ul>
 </x-layout>
